@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(90deg, rgba(0,67,113,1) 11%, rgba(35,35,89,1) 53%, rgba(2,0,36,1) 100%);
+    color: white;
+}
+.main{
+    display: flex;
+
+
+    align-items: center;
+    flex-direction: column;
+}
+ul{
+    background-color: black;
+    width: 100px;
+    border-radius: 5px;
+}
